@@ -73,6 +73,8 @@ body {
 
 .btn button:hover::before {
     transform: scaleX(1);
+    border-radius: 10px;
+
 }
 
 .section {
@@ -200,7 +202,7 @@ h1 {
 
 }
 
-option{
+option {
     font-size: 10px;
 }
 
